@@ -19,4 +19,4 @@
   display: none;
 }
 
-.parent div +
+.parent div + div
