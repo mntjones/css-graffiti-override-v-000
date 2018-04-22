@@ -18,3 +18,5 @@
 .parent #tag-5 .slick {
   display: none;
 }
+
+.parent div +
