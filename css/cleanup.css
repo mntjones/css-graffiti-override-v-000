@@ -19,9 +19,9 @@
   display: none;
 }
 
-/*.parent div + div #tag-6 {*/
-/*  display: none;*/
-/*}*/
+.parent div + div #tag-6 {
+  display: none;
+}
 
 /*div #tag-7.slick {*/
 /*  display: none;*/
