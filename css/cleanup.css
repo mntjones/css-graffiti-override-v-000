@@ -3,7 +3,7 @@
   display: none;
 }
 
-#wall div:nth-child(2) #tag-2 {
+#wall div #tag-2 {
   display: none;
 }
 
