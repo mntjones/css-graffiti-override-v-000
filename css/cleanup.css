@@ -15,9 +15,9 @@
   display:none;
 }
 
-/*#wall .parent #tag-5.slick {*/
-/*  display: none;*/
-/*}*/
+#wall .parent #tag-5.slick {
+  display: none;
+}
 
 /*.parent div + div #tag-6 {*/
 /*  display: none;*/
