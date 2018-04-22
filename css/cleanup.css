@@ -23,6 +23,6 @@ body #wall .parent #tag-5.slick {
   display: none;
 }
 
-#wall .parent div + #tag-7 .slick {
+#wall .parent #tag-7 .slick {
   display: none;
 }
